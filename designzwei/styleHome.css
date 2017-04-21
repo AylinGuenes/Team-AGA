@@ -1,0 +1,43 @@
+/*
+header > div  {
+
+
+	background: url('../img/basketball.jpg');
+	background-position: right;
+	background-repeat: no-repeat;
+}
+*/
+body {
+
+    background: url("../img/images.jpg");
+    margin: 0px;
+}
+
+.form{
+  margin:auto;
+  width: 25em;
+}
+.navbar{
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  background: #8B0000 ;
+    overflow: hidden;
+}
+.navitem{
+  padding: 10px 30px;
+  text-decoration: none;
+  font-size: 1.5em;
+  font-family: monospace;
+  color: white;
+
+    background-color: #8B0000 ;
+}
+.navitem:hover{
+  background-color: #B22222;
+}
+
+li {
+  height: 50px;
+    display: inline;
+}
